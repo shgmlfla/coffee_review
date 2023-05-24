@@ -10,4 +10,4 @@
 ```
 
 ## 사용 기술
-Spring, Java, Oracle, Git, 
+Spring, Java, Oracle, Git, Oracle cloud
