@@ -11,3 +11,6 @@
 
 ## 사용 기술
 Spring, Java, Oracle, Git, Oracle cloud
+
+## ERD
+
