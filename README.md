@@ -19,12 +19,16 @@ Spring, Java, Oracle, Git, Oracle cloud
 ## 화면
 ### 메인페이지
 <img width="80%" src="https://github.com/shgmlfla/coffee_review/assets/69201914/6f6e0005-0184-4e2b-a952-e9cd66bd3d9c"/>
+</br>
+지도 api를 활용한 카페 위치 기능</br>
+검색 필터를 이용한 원하는 카페 검색 기능
 
 ### 로그인, 회원가입
 <img width="80%" src="https://github.com/shgmlfla/coffee_review/assets/69201914/6b490e5b-b1aa-4e77-92a2-30ed5ca33fd4"/>
 <img width="80%" src="https://github.com/shgmlfla/coffee_review/assets/69201914/45019956-247d-4788-b55a-022d6d6d6575"/>
 
 ### 리뷰 작성
+<img width="80%" src="https://github.com/shgmlfla/coffee_review/assets/69201914/3438eb59-0528-4672-8bbc-802411fb2abf"/>
 
 ### 커뮤니티
 <img width="80%" src="https://github.com/shgmlfla/coffee_review/assets/69201914/6f1b9fe9-c4dc-456e-a448-81b288352603"/>
