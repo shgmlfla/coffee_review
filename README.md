@@ -13,4 +13,4 @@
 Spring, Java, Oracle, Git, Oracle cloud
 
 ## ERD
-
+<img width="80%" src="https://github.com/shgmlfla/coffee_review/assets/69201914/40bb3cf5-2b78-46f1-b203-e7e4f031f940"/>
