@@ -26,6 +26,7 @@ Spring, Java, Oracle, Git, Oracle cloud
 ### 로그인, 회원가입
 <img width="80%" src="https://github.com/shgmlfla/coffee_review/assets/69201914/6b490e5b-b1aa-4e77-92a2-30ed5ca33fd4"/>
 <img width="80%" src="https://github.com/shgmlfla/coffee_review/assets/69201914/45019956-247d-4788-b55a-022d6d6d6575"/>
+유효성 검사로 로그인 정보 확인
 
 ### 리뷰 작성
 <img width="80%" src="https://github.com/shgmlfla/coffee_review/assets/69201914/3438eb59-0528-4672-8bbc-802411fb2abf"/>
